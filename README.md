@@ -33,7 +33,14 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://www.linkedin.com/in/puanbeningpastika/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=social&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:puanbening04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=social&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://instagram.com/puanpstka" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=social&logo=instagram" alt="Instagram" />
+  </a>
 </p>
+
