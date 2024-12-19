@@ -27,11 +27,11 @@
 
 ### 🚀 Projects
 - 🧠 **[Analisis Kelayakan Sekolah Dasar di Indonesia](https://www.kaggle.com/code/puanbeningpastika/analisis-kelayakan-sekolah-dasar-di-indonesia):**  
-  A brief description of the project. *(Python, TensorFlow)*
+  Proyek ini bertujuan untuk melakukan analisis kelayakan Sekolah Dasar di Indonesia dengan menggunakan teknik clustering. Dengan mengelompokkan data yang mencakup faktor faktor seperti indikator jumlah siswa, angka mengulang, angka putus sekolah, jumlah kepala sekolah dan guru, jumlah rombel (rombongan belajar), serta kondisi ruang kelas yang tersedia dari 38 Provinsi dan sekolah Luar Negeri di bawah naungan Kemendikbudristek. Hasil analisis ini diharapkan dapat membantu dalam pengambilan keputusan terkait pembangunan dan perbaikan fasilitas pendidikan di Indonesia. *(Python)*
 - 🌐 **[Malicious Web Detection Using Logistic Regression](https://www.kaggle.com/code/puanbeningpastika/malicious-web-detection-using-logistic-regression):**  
-  Automating data collection with Python. *(BeautifulSoup, Selenium)*
+  Proyek ini berfokus pada deteksi situs web berbahaya dengan menggunakan model klasifikasi berbasis Logistic Regression dengan memaksimalkan pre processing data.. *(Python)*
 - 📊 **[Prediksi Curah Hujan Menggunakan Algoritma k-NN](https://www.kaggle.com/code/puanbeningpastika/prediksi-curah-hujan-menggunakan-algoritma-k-nn):**  
-  Insights through visual storytelling. *(Matplotlib, Seaborn)*
+  Proyek ini menggunakan algoritma k-Nearest Neighbors (k-NN) untuk memprediksi kondisi cuaca seperti hujan, cerah berawan, atau cerah berdasarkan dataset cuaca dummy. Dengan memanfaatkan data historis, model ini dapat memberikan prediksi yang lebih akurat mengenai kondisi cuaca di masa depan. Hasil prediksi ini akan sangat berguna untuk perencanaan aktivitas luar ruangan dan memberikan pemahaman lebih dalam mengenai pola cuaca di suatu daerah. *(Matplotlib, Seaborn)*
 
 ### 🌐 Connect with Me
 <p align="center">
