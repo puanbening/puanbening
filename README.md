@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Bening</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=F77DAD&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!+✨;Passionate+about+technology+and+learning;Exploring+Machine+Learning+%26+Data+Science" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=F77DAD&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!+✨;Passionate+about+technology+and+learning;Exploring+Machine+Learning+%26+Artificial+Intelligence" alt="Typing SVG" />
 </p>
 
 ---
@@ -25,8 +25,8 @@
 
 ### 📈 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=puanbening&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=puanbening&theme=radical" alt="GitHub Streak" width="400" />
 </p>
 
 ---
