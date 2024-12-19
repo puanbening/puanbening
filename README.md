@@ -13,9 +13,9 @@
 <p align="center">
   <img src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000" alt="Python" />
   <img src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000" alt="TensorFlow" />
-  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="VS Code" />
   <img src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" alt="Google Colab" />
   <img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" alt="Jupyter" />
+    <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="VS Code" />
 </p>
 
 
