@@ -18,12 +18,10 @@
     <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="VS Code" />
 </p>
 
-```
-### 📈 Stats
+`### 📈 Stats`
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=puanbening&theme=radical" alt="GitHub Streak" width="400" />
 </p>
-```
 
 ### 🚀 Projects
 - 🧠 **[Analisis Kelayakan Sekolah Dasar di Indonesia](https://www.kaggle.com/code/puanbeningpastika/analisis-kelayakan-sekolah-dasar-di-indonesia):**  
