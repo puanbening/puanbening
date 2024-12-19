@@ -17,6 +17,11 @@
     <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="VS Code" />
 </p>
 
+### 🚀 Projects
+- 🧠 **[Analisis Kelayakan Sekolah Dasar di Indonesia](https://www.kaggle.com/code/puanbeningpastika/analisis-kelayakan-sekolah-dasar-di-indonesia):**  
+- 🌐 **[Malicious Web Detection Using Logistic Regression](https://www.kaggle.com/code/puanbeningpastika/malicious-web-detection-using-logistic-regression):**  
+- 📊 **[Prediksi Curah Hujan Menggunakan Algoritma k-NN](https://www.kaggle.com/code/puanbeningpastika/prediksi-curah-hujan-menggunakan-algoritma-k-nn):**  
+  
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/puanbeningpastika/">
