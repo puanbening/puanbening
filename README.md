@@ -18,20 +18,20 @@
     <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="VS Code" />
 </p>
 
-
+```
 ### 📈 Stats
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=puanbening&theme=radical" alt="GitHub Streak" width="400" />
 </p>
-
+```
 
 ### 🚀 Projects
 - 🧠 **[Analisis Kelayakan Sekolah Dasar di Indonesia](https://www.kaggle.com/code/puanbeningpastika/analisis-kelayakan-sekolah-dasar-di-indonesia):**  
-  Proyek ini bertujuan untuk melakukan analisis kelayakan Sekolah Dasar di Indonesia menggunakan teknik clustering. Dengan mengelompokkan data yang mencakup faktor faktor seperti indikator jumlah siswa, angka mengulang, angka putus sekolah, jumlah kepala sekolah dan guru, jumlah rombel (rombongan belajar), serta kondisi ruang kelas yang tersedia dari 38 Provinsi dan sekolah Luar Negeri di bawah naungan Kemendikbudristek, model ini dapat memberikan wawasan mengenai distribusi kelayakan sekolah di berbagai wilayah. Hasil analisis ini diharapkan dapat membantu dalam pengambilan keputusan terkait pembangunan dan perbaikan fasilitas pendidikan di Indonesia. *(Python)*
+ ``` Proyek ini bertujuan untuk melakukan analisis kelayakan Sekolah Dasar di Indonesia menggunakan teknik clustering. Dengan mengelompokkan data yang mencakup faktor faktor seperti indikator jumlah siswa, angka mengulang, angka putus sekolah, jumlah kepala sekolah dan guru, jumlah rombel (rombongan belajar), serta kondisi ruang kelas yang tersedia dari 38 Provinsi dan sekolah Luar Negeri di bawah naungan Kemendikbudristek, model ini dapat memberikan wawasan mengenai distribusi kelayakan sekolah di berbagai wilayah. Hasil analisis ini diharapkan dapat membantu dalam pengambilan keputusan terkait pembangunan dan perbaikan fasilitas pendidikan di Indonesia. *(Python)* ```
 - 🌐 **[Malicious Web Detection Using Logistic Regression](https://www.kaggle.com/code/puanbeningpastika/malicious-web-detection-using-logistic-regression):**  
-  Proyek ini berfokus pada deteksi situs web berbahaya dengan menggunakan model klasifikasi berbasis Logistic Regression dengan memaksimalkan pre processing data. *(Python)*
+  ``` Proyek ini berfokus pada deteksi situs web berbahaya dengan menggunakan model klasifikasi berbasis Logistic Regression dengan memaksimalkan pre processing data. *(Python)* ```
 - 📊 **[Prediksi Curah Hujan Menggunakan Algoritma k-NN](https://www.kaggle.com/code/puanbeningpastika/prediksi-curah-hujan-menggunakan-algoritma-k-nn):**  
-  Proyek ini menggunakan algoritma k-Nearest Neighbors (k-NN) untuk memprediksi kondisi cuaca seperti hujan, cerah berawan, atau cerah berdasarkan dataset cuaca dummy. Dengan memanfaatkan data historis, model ini dapat memberikan prediksi yang lebih akurat mengenai kondisi cuaca di masa depan. Hasil prediksi ini akan sangat berguna untuk perencanaan aktivitas luar ruangan dan memberikan pemahaman lebih dalam mengenai pola cuaca di suatu daerah. *(Matplotlib, Seaborn)*
+  ``` Proyek ini menggunakan algoritma k-Nearest Neighbors (k-NN) untuk memprediksi kondisi cuaca seperti hujan, cerah berawan, atau cerah berdasarkan dataset cuaca dummy. Dengan memanfaatkan data historis, model ini dapat memberikan prediksi yang lebih akurat mengenai kondisi cuaca di masa depan. Hasil prediksi ini akan sangat berguna untuk perencanaan aktivitas luar ruangan dan memberikan pemahaman lebih dalam mengenai pola cuaca di suatu daerah. *(Matplotlib, Seaborn)* ```
 
 ### 🌐 Connect with Me
 <p align="center">
