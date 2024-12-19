@@ -6,7 +6,6 @@
 ### 🌟 About Me
 - 🎓 **Undergraduate Informatics Engineering Student** at Universitas Negeri Semarang
 - 🌱 Currently learning **Machine Learning** at Bangkit Academy Batch 2
-- 🔭 Working on exciting personal and collaborative projects  
 - 🎯 Fun fact: I enjoy **reading his-fic**  pls reach me out on instagram and let's talk about his-fic book!!
 
 ### 🛠️ Tech Stack
@@ -35,6 +34,8 @@
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=puanbening&theme=radical" alt="GitHub Streak" width="400" />
 </p>
+
+- 🔭 Working on exciting personal and collaborative projects  
 
 ### 🚀 Projects
 - 🧠 **[Analisis Kelayakan Sekolah Dasar di Indonesia](https://www.kaggle.com/code/puanbeningpastika/analisis-kelayakan-sekolah-dasar-di-indonesia):**  
