@@ -42,7 +42,7 @@
     <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" alt="Email" />
   </a>
   <a href="https://instagram.com/puanpstka" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram" />
+    <img src="https://img.icons8.com/?size=100&id=YtpeVQhQ8USm&format=png&color=000000" alt="Instagram" />
   </a>
 </p>
 
