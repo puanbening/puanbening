@@ -9,7 +9,7 @@
 - 🎓 **Undergraduate Informatics Engineering Student** at Universitas Negeri Semarang
 - 🌱 Currently learning **Machine Learning** at Bangkit Academy Batch 2
 - 🔭 Working on exciting personal and collaborative projects  
-- 🎯 Fun fact: I enjoy experimenting with **reading his-fic**  
+- 🎯 Fun fact: I enjoy **reading his-fic**  pls reach me out on instagram and let's talk about his-fic book!!
 
 ---
 
