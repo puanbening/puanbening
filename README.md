@@ -13,7 +13,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
   <img src="https://img.shields.io/badge/-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
@@ -37,12 +36,13 @@
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/puanbeningpastika/" target="_blank">
-    <img src="https://img.shields.io/badge/-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.icons8.com/?size=100&id=447&format=png&color=000000" alt="LinkedIn" />
   </a>
   <a href="mailto:puanbening04@gmail.com">
-    <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.icons8.com/?size=100&id=rUgzXdXFnhmg&format=png&color=000000" alt="Email" />
   </a>
   <a href="https://instagram.com/puanpstka" target="_blank">
-    <img src="https://img.shields.io/badge/-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.icons8.com/?size=100&id=eRJfQw0Zs44S&format=png&color=000000" alt="Instagram" />
   </a>
 </p>
+
