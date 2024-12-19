@@ -19,14 +19,14 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/puanbeningpastika/" style="margin-right: 15px;">
-    <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"/>
+  <a href="https://www.linkedin.com/in/puanbeningpastika/">
+    <img src="https://img.icons8.com/?size=30&id=xuvGCOXi8Wyg&format=png&color=000000"/>
   </a>
-  <a href="mailto:puanbening04@gmail.com" style="margin-right: 15px;">
+  <a href="mailto:puanbening04@gmail.com">
     <img src="https://img.icons8.com/?size=30&id=nQ4dZIRCI0nW&format=png&color=000000"/>
   </a>
-  <a href="https://instagram.com/puanpstka" style="margin-right: 15px;">
-    <img src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000"/>
+  <a href="https://instagram.com/puanpstka">
+    <img src="https://img.icons8.com/?size=30&id=32323&format=png&color=000000"/>
   </a>
 </p>
 
