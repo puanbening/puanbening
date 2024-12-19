@@ -1,6 +1,7 @@
-<h1 align="center">Hi there! 👋 I'm Bening</h1>
+<h1 align="center">Hi there! I'm Bening 👋 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=F77DAD&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!+✨;Passionate+about+technology;Exploring+Machine+Learning+%26+Artificial+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=F77DAD&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!+✨;Passionate+about+technology;
+    Exploring+Machine+Learning+%26+Artificial+Intelligence" alt="Typing SVG" />
 </p>
 
 ---
