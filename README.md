@@ -5,7 +5,7 @@
 
 ### 🌟 About Me
 - 🎓 **Undergraduate Informatics Engineering Student** at Universitas Negeri Semarang
-- 🌱 Currently learning **Machine Learning** at Bangkit Academy Batch 2
+- 🌱 A **Machine Learning Cohort** at Bangkit Academy 2024 Batch 2
 - 🎯 Fun fact: I enjoy **reading his-fic**  pls reach me out on instagram and let's talk about his-fic book!!
 
 ### 🛠️ Tech Stack
