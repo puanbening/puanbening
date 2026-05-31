@@ -21,6 +21,7 @@
 - **[Analisis Kelayakan Sekolah Dasar di Indonesia](https://www.kaggle.com/code/puanbeningpastika/analisis-kelayakan-sekolah-dasar-di-indonesia)**  
 - **[Prediksi Curah Hujan Menggunakan Algoritma k-NN](https://www.kaggle.com/code/puanbeningpastika/prediksi-curah-hujan-menggunakan-algoritma-k-nn)**
 - **[Deteksi Website Berbahaya Menggunakan Algoritma Logistic Regression](https://www.kaggle.com/code/puanbeningpastika/malicious-web-detection-using-logistic-regression)**
+- **[Dashboard Analisis Kualitas Udara](https://github.com/puanbening/air-quality)**
 - **[Implementasi Transfer Learning Menggunakan YAMNet untuk Deteksi Speech Delay pada Anak](https://github.com/bangkit-speechease)**
 - **[Implementasi Ektsraksi Fitur MFCC dan YAMNet dengan Algoritma LightGBM untuk Deteksi Specific Language Impairment (SLI) pada Anak](https://github.com/puanbening/deteksi-SLI)**
   
