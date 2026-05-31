@@ -1,14 +1,17 @@
-<h1 align="center">Hi there! I'm Bening 👋 </h1>
+<h1 align="center">Haloo! Saya Bening 👋 </h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=F77DAD&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub;" alt="Typing SVG" />
 </p>
 
-### 🌟 About Me
-- 🎓 **Fresh graduate majoring in Informatics Engineering** at Universitas Negeri Semarang
-- 🌱 A **Machine Learning Cohort** at Bangkit Academy 2024 Batch 2
-- 🎯 Fun fact: I enjoy **reading his-fic**  pls reach me out on instagram and let's talk about his-fic book!!
+### Tentang Saya
+- Lulusan Teknik Informatika dari Universitas Negeri Semarang
+- Alumni Machine Learning Cohort Bangkit Academy 2024 Batch 2
+- Ex Data Scientist Intern di PT Botika Teknologi Indonesia
+- Freelance Data Science & AI Curriculum Developer di TemuDataku
+- Tertarik pada bidang Data Science, Machine Learning, Artificial Intelligence, dan Data Analytics
+- Fun fact: Saya suka baca buku fiksi sejarah (his-fic). Kalau punya rekomendasi buku, boleh banget ngobrol lewat Instagram!
 
-### 🛠️ Tech Stack
+### Tech Stack
 <p align="center">
   <img src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000" alt="Python" />
   <img src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000" alt="TensorFlow" />
@@ -17,15 +20,15 @@
     <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="VS Code" />
 </p>
 
-### 🚀 Projects
+### Proyek
 - **[Analisis Kelayakan Sekolah Dasar di Indonesia](https://www.kaggle.com/code/puanbeningpastika/analisis-kelayakan-sekolah-dasar-di-indonesia)**  
 - **[Prediksi Curah Hujan Menggunakan Algoritma k-NN](https://www.kaggle.com/code/puanbeningpastika/prediksi-curah-hujan-menggunakan-algoritma-k-nn)**
 - **[Deteksi Website Berbahaya Menggunakan Algoritma Logistic Regression](https://www.kaggle.com/code/puanbeningpastika/malicious-web-detection-using-logistic-regression)**
 - **[Dashboard Analisis Kualitas Udara](https://github.com/puanbening/air-quality)**
 - **[Implementasi Transfer Learning Menggunakan YAMNet untuk Deteksi Speech Delay pada Anak](https://github.com/bangkit-speechease)**
-- **[Implementasi Ektsraksi Fitur MFCC dan YAMNet dengan Algoritma LightGBM untuk Deteksi Specific Language Impairment (SLI) pada Anak](https://github.com/puanbening/deteksi-SLI)**
+- **[Implementasi Ekstraksi Fitur MFCC dan YAMNet dengan Algoritma LightGBM untuk Deteksi Specific Language Impairment (SLI) pada Anak](https://github.com/puanbening/deteksi-SLI)**
   
-### 🌐 Connect with Me
+### Hubungi Saya
 <p align="center">
   <a href="https://www.linkedin.com/in/puanbeningpastika/">
     <img src="https://img.icons8.com/?size=30&id=xuvGCOXi8Wyg&format=png&color=000000"/>
