@@ -4,7 +4,7 @@
 </p>
 
 ### 🌟 About Me
-- 🎓 **Undergraduate Informatics Engineering Student** at Universitas Negeri Semarang
+- 🎓 **Fresh graduate majoring in Informatics Engineering** at Universitas Negeri Semarang
 - 🌱 A **Machine Learning Cohort** at Bangkit Academy 2024 Batch 2
 - 🎯 Fun fact: I enjoy **reading his-fic**  pls reach me out on instagram and let's talk about his-fic book!!
 
@@ -30,7 +30,7 @@
   <a href="mailto:puanbening04@gmail.com">
     <img src="https://img.icons8.com/?size=30&id=nQ4dZIRCI0nW&format=png&color=000000"/>
   </a>
-  <a href="https://instagram.com/puanpstka">
+  <a href="https://instagram.com/sapuanbening">
     <img src="https://img.icons8.com/?size=30&id=32323&format=png&color=000000"/>
   </a>
 </p>
