@@ -28,7 +28,7 @@
 - **[Implementasi Transfer Learning Menggunakan YAMNet untuk Deteksi Speech Delay pada Anak](https://github.com/bangkit-speechease)**
 - **[Implementasi Ekstraksi Fitur MFCC dan YAMNet dengan Algoritma LightGBM untuk Deteksi Specific Language Impairment (SLI) pada Anak](https://github.com/puanbening/deteksi-SLI)**
   
-### Hubungi Saya
+### Hubungi Saya di
 <p align="center">
   <a href="https://www.linkedin.com/in/puanbeningpastika/">
     <img src="https://img.icons8.com/?size=30&id=xuvGCOXi8Wyg&format=png&color=000000"/>
